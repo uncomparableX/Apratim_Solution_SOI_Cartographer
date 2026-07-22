@@ -1,0 +1,17 @@
+solution_node:
+
+  ros__parameters:
+
+    communication:
+
+      heartbeat_rate: 1.0
+
+      robot_timeout: 5.0
+
+      publish_robot_state: true
+
+      publish_frontiers: true
+
+      share_maps: true
+
+      synchronize_frequency: 2.0

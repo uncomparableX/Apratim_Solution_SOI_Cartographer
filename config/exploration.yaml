@@ -1,0 +1,19 @@
+solution_node:
+
+  ros__parameters:
+
+    exploration:
+
+      frontier_min_size: 5
+
+      information_gain_radius: 1.0
+
+      clustering_radius: 0.40
+
+      goal_blacklist_timeout: 15.0
+
+      revisit_penalty: 20.0
+
+      exploration_timeout: 300.0
+
+      use_information_gain: true

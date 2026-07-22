@@ -1,0 +1,23 @@
+solution_node:
+
+  ros__parameters:
+
+    robot_name: "robot"
+
+    update_rate: 10.0
+
+    publish_rate: 5.0
+
+    map_resolution: 0.05
+
+    robot_radius: 0.18
+
+    frontier_update_rate: 2.0
+
+    planner_update_rate: 5.0
+
+    enable_debug: true
+
+    enable_visualization: true
+
+    enable_logging: true

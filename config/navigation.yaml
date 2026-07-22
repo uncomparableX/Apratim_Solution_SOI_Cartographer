@@ -1,0 +1,27 @@
+solution_node:
+
+  ros__parameters:
+
+    planner:
+
+      algorithm: "astar"
+
+      allow_diagonal: true
+
+      obstacle_inflation_radius: 0.25
+
+      replan_distance: 0.50
+
+      goal_tolerance: 0.15
+
+      max_planning_time: 1.0
+
+    controller:
+
+      linear_velocity: 0.35
+
+      angular_velocity: 1.5
+
+      linear_kp: 1.2
+
+      angular_kp: 2.0

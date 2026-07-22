@@ -1,0 +1,19 @@
+solution_node:
+
+  ros__parameters:
+
+    mapping:
+
+      merge_maps: true
+
+      use_icp: true
+
+      occupancy_threshold: 50
+
+      free_threshold: 20
+
+      unknown_value: -1
+
+      map_publish_rate: 2.0
+
+      map_merge_rate: 1.0

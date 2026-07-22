@@ -1,0 +1,13 @@
+numpy>=1.26
+
+scipy>=1.11
+
+opencv-python>=4.8
+
+networkx>=3.1
+
+scikit-learn>=1.4
+
+PyYAML>=6.0
+
+transforms3d>=0.4
