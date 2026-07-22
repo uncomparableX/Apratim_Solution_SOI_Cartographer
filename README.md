@@ -1,6 +1,6 @@
 # SOI Cartographer
 
-## Team Solution
+## Apratim Das Solo Solution
 
 Competition submission for the SOI Cartographer Autonomous Multi-Robot Mapping Challenge.
 
